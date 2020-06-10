@@ -1,3 +1,3 @@
 # Blog-App
 
-# see the description for Link.
+# see the description (About Section) for Link.
